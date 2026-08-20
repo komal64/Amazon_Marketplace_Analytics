@@ -95,3 +95,7 @@ The dashboard provides:
 - Enhanced pricing and product strategy
 
 ---
+## Author
+- Komal Kumari
+
+---
