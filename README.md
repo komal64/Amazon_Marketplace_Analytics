@@ -96,6 +96,7 @@ The dashboard provides:
 
 ---
 ## Author
-- Komal Kumari
+**Komal Kumari**
+komalku239@gmail.com
 
 ---
